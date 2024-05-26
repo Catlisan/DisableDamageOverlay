@@ -1,0 +1,12 @@
+C:\Users\Asus\RiderProjects\DisableDamageOverlay\DisableDamageOverlay\bin\Debug\net8.0\DisableDamageOverlay.deps.json
+C:\Users\Asus\RiderProjects\DisableDamageOverlay\DisableDamageOverlay\bin\Debug\net8.0\DisableDamageOverlay.dll
+C:\Users\Asus\RiderProjects\DisableDamageOverlay\DisableDamageOverlay\bin\Debug\net8.0\DisableDamageOverlay.pdb
+C:\Users\Asus\RiderProjects\DisableDamageOverlay\DisableDamageOverlay\obj\Debug\net8.0\DisableDamageOverlay.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\DisableDamageOverlay\DisableDamageOverlay\obj\Debug\net8.0\DisableDamageOverlay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\RiderProjects\DisableDamageOverlay\DisableDamageOverlay\obj\Debug\net8.0\DisableDamageOverlay.AssemblyInfoInputs.cache
+C:\Users\Asus\RiderProjects\DisableDamageOverlay\DisableDamageOverlay\obj\Debug\net8.0\DisableDamageOverlay.AssemblyInfo.cs
+C:\Users\Asus\RiderProjects\DisableDamageOverlay\DisableDamageOverlay\obj\Debug\net8.0\DisableDamageOverlay.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\DisableDamageOverlay\DisableDamageOverlay\obj\Debug\net8.0\DisableDamageOverlay.dll
+C:\Users\Asus\RiderProjects\DisableDamageOverlay\DisableDamageOverlay\obj\Debug\net8.0\refint\DisableDamageOverlay.dll
+C:\Users\Asus\RiderProjects\DisableDamageOverlay\DisableDamageOverlay\obj\Debug\net8.0\DisableDamageOverlay.pdb
+C:\Users\Asus\RiderProjects\DisableDamageOverlay\DisableDamageOverlay\obj\Debug\net8.0\ref\DisableDamageOverlay.dll
